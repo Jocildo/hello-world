@@ -1,2 +1,2 @@
 # hello-world
-atividade 1 cubos academy
+Escrevendo hello world em js, atividade 1 cubos academy
